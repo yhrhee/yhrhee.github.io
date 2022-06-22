@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_tv/test tv.md",
+            "file": "pages/notes.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_tv/test tv.md",
+                "file": "pages/notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "35a9e56675ee88c3",
   "lastOpenFiles": [
+    "pages/notes.md",
+    "pages/lists.md",
+    "pages/404.md",
+    "pages/index.md",
     "_tv/test tv.md",
     "_notes/Public/Welcome to the garden.md",
     "_notes/Public/말씀향기 1과.md",
     "pages/tv.md",
     "pages/posts.md",
-    "pages/notes.md",
-    "pages/lists.md",
-    "pages/index.md",
-    "_posts/2022-03-01-to-to.md",
-    "_posts/2020-03-01-how-to.md"
+    "_posts/2022-03-01-to-to.md"
   ]
 }
