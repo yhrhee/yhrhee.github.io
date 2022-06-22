@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Public/말씀향기 2과.md",
+            "file": "_tv/test tv.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Check out the demo , features and how to",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/말씀향기 2과.md",
+                "file": "_tv/test tv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "35a9e56675ee88c3",
   "lastOpenFiles": [
-    "_notes/Public/말씀향기 2과.md",
+    "_tv/test tv.md",
+    "_notes/Public/Welcome to the garden.md",
     "_notes/Public/말씀향기 1과.md",
-    "_posts/2020-03-01-features.md",
-    "_posts/2020-03-01-how-to.md",
-    "pages/index.md",
+    "pages/tv.md",
     "pages/posts.md",
     "pages/notes.md",
     "pages/lists.md",
-    "_notes/Public/Credits.md",
-    "_notes/Public/Hidden Note.md"
+    "pages/index.md",
+    "_posts/2022-03-01-to-to.md",
+    "_posts/2020-03-01-how-to.md"
   ]
 }

@@ -1,8 +1,8 @@
 ---
-title: test
+title: test tv
 feed: show
 date: 11-05-2022
-permalink: /credits
+permalink: /tv
 format: list
 ---
 
