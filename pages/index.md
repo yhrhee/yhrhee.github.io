@@ -6,3 +6,8 @@ layout: Post
 permalink: /
 title: YHRHEE
 ---
+
+khkkjjjj
+klkjkjk
+lkjkjjkjkjjlklkjlkj
+emes set default data, layouts, includes, and stylesheets. However, you can override any of the theme defaults with your own site content.

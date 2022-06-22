@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Public/말씀향기 2과.md",
+            "file": "pages/index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/말씀향기 2과.md",
+                "file": "pages/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "35a9e56675ee88c3",
   "lastOpenFiles": [
+    "pages/index.md",
+    "pages/posts.md",
     "_notes/Public/말씀향기 2과.md",
     "pages/notes.md",
     "pages/lists.md",
@@ -95,8 +97,6 @@
     "_notes/Public/Credits.md",
     "_notes/Public/Hidden Note.md",
     "_notes/Public/Markdown Rendered.md",
-    "_notes/Public/Welcome to the garden.md",
-    "_posts/2020-03-01-features.md",
-    "_posts/2020-03-01-how-to.md"
+    "_notes/Public/Welcome to the garden.md"
   ]
 }
